@@ -1,4 +1,5 @@
 Sentiment Analysis Using Transformer Embeddings & Machine Learning Models
+
 📌 Overview
 This project explores sentiment analysis using DeBERTa transformer embeddings combined with traditional and ensemble machine learning models. The study compares the performance of various ML models in sentiment classification and analyzes their limitations in handling negations and nuanced expressions.
 
